@@ -1,4 +1,8 @@
 # Exercice_Python
+
+Après avoir suivi le Bootcamp "Analyse de Données avec Python" enseigné par @kevindegila.
+Je me suis exercé avec les exrcices proposés lors de l'enseignement.
+
 Voici quelques exemples d'exercices Python :
 - Écrire une fonction qui prend une liste de nombres en entrée et qui retourne la somme de ces nombres.
 - Écrire une fonction qui prend une chaîne de caractères en entrée et qui retourne une version de cette chaîne avec tous les caractères en minuscules.
