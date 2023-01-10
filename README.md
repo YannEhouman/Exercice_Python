@@ -1,7 +1,7 @@
 # Exercice_Python
 
 Après avoir suivi le Bootcamp "Analyse de Données avec Python" enseigné par @kevindegila.
-Je me suis exercé avec les exrcices proposés lors de l'enseignement.
+Je me suis exercé avec les exercices proposés lors de l'enseignement.
 
 Voici quelques exemples d'exercices Python :
 - Écrire une fonction qui prend une liste de nombres en entrée et qui retourne la somme de ces nombres.
